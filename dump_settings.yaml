@@ -1,6 +1,6 @@
 BLOCK_SITE:
 - https://www.hibbba.com/
-DATABASE: sqlite
+DATABASE: mongodb
 DEPLOY_TYPE: github
 GITEE_FRIENDS_LINKS:
   enable: false
