@@ -20,16 +20,34 @@ LINK:
   theme: volantis
 OUTDATE_CLEAN: 600
 SETTINGS_FRIENDS_LINKS:
-  enable: false
+  enable: true
   json_api: ''
   list:
-  - - "\u8D30\u7339\u306E\u5C0F\u7A9D"
-    - https://noionion.top/
-    - https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg
-  - - "Akilar\u306E\u7CD6\u679C\u5C4B"
-    - https://akilar.top/
-    - https://akilar.top/images/headimage.png
-  - - elizen
-    - https://elizen.me/
-    - https://akilar.top/images/headimage.png
-    - hello.xml
+  - - Blogin
+    - https://2dogz.cn/
+    - https://bu.dusays.com/2020/11/13/b54215c2293a9.jpg
+    - rss-feed/
+  - - "\u5C0F\u7B80\u535A\u5BA2"
+    - https://blog.ideaopen.cn/
+    - https://bu.dusays.com/2022/05/31/6295d1906b264.jpg
+    - index.php/feed/
+  - - Hello Lin
+    - https://www.hellolin.cn/
+    - https://bu.dusays.com/2022/08/02/62e8d85fa20f5.png
+    - feed/
+  - - "\u6C90\u5370\u5C0F\u7AD9"
+    - https://c.undf.top/
+    - https://c.undf.top/icon/android-chrome-144x144.png
+    - atom.xml
+  - - "fred \u968F\u7B14"
+    - https://alialili.cn/
+    - https://bu.dusays.com/2022/07/08/62c7ad29019cb.webp
+    - atom.xml
+  - - "\u4ECA\u5915\u4F55\u5915\u516E"
+    - https://www.lyboy.top/
+    - https://bu.dusays.com/2022/10/03/633a02768220a.png
+    - feed
+  - - "Catch Wang\u2019s Blog"
+    - https://www.catchwang.com/
+    - https://bu.dusays.com/2021/12/27/4bed0ff62a1fd.png
+    - feed
