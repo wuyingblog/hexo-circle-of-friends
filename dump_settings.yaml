@@ -23,10 +23,6 @@ SETTINGS_FRIENDS_LINKS:
   enable: true
   json_api: ''
   list:
-  - - Blogin
-    - https://2dogz.cn/
-    - https://bu.dusays.com/2020/11/13/b54215c2293a9.jpg
-    - rss-feed/
   - - "\u5C0F\u7B80\u535A\u5BA2"
     - https://blog.ideaopen.cn/
     - https://bu.dusays.com/2022/05/31/6295d1906b264.jpg
