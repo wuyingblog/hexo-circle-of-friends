@@ -27,17 +27,9 @@ SETTINGS_FRIENDS_LINKS:
     - https://blog.ideaopen.cn/
     - https://bu.dusays.com/2022/05/31/6295d1906b264.jpg
     - index.php/feed/
-  - - Hello Lin
-    - https://www.hellolin.cn/
-    - https://bu.dusays.com/2022/08/02/62e8d85fa20f5.png
-    - feed/
   - - "\u6C90\u5370\u5C0F\u7AD9"
     - https://c.undf.top/
     - https://c.undf.top/icon/android-chrome-144x144.png
-    - atom.xml
-  - - "fred \u968F\u7B14"
-    - https://alialili.cn/
-    - https://bu.dusays.com/2022/07/08/62c7ad29019cb.webp
     - atom.xml
   - - "\u4ECA\u5915\u4F55\u5915\u516E"
     - https://www.lyboy.top/
@@ -51,3 +43,23 @@ SETTINGS_FRIENDS_LINKS:
     - https://xyzbz.cn/
     - https://img.xyzbz.cn/i/2022/05/20/62870d1504cc7.png
     - feed/
+  - - Hello Lin
+    - https://www.hellolin.cn/
+    - https://bu.dusays.com/2022/08/02/62e8d85fa20f5.png
+    - feed/
+  - - "fred \u968F\u7B14"
+    - https://alialili.cn/
+    - https://bu.dusays.com/2022/07/08/62c7ad29019cb.webp
+    - rss
+  - - Blogin
+    - https://2dogz.cn/
+    - https://bu.dusays.com/2020/11/13/b54215c2293a9.jpg
+    - rss-feed/
+  - - "Cold\u2019blog"
+    - https://www.coldyun.cn/
+    - https://ucdn.coldyun.cn/handsome/handsome8.00/assets/img/tou.jpg
+    - feed/
+  - - "\u94A7\u8A00\u6781\u5BA2"
+    - https://www.jinjun.top/
+    - https://www.jinjun.top/img/avatar.jpg
+    - feed
