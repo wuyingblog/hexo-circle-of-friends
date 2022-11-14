@@ -18,7 +18,7 @@ HTTP_PROXY: false
 LINK:
 - link: https://dusays.com/friends/
   theme: volantis
-OUTDATE_CLEAN: 600
+OUTDATE_CLEAN: 3600
 SETTINGS_FRIENDS_LINKS:
   enable: true
   json_api: ''
