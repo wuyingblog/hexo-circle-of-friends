@@ -19,9 +19,8 @@ LINK:
      - {link： “https://hongweblog.com/friend”， theme： “common1”} # 友链页地址2
      - {link： “https://xinger.vip/links”， theme： “common1”} # 友链页地址3
      - {link： “https://www.azusemisa.top/friends/”， theme： “butterfly”} # 友链页地址4
-     - {link： “https://www.timochan.cn/friends”， theme： “common1”} # 友链页地址5
-#  - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址4
-#  - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址5     
+#  - {link: "https://noionion.top/link/", theme: "butterfly"} # 友链页地址5
+#  - {link: "https://immmmm.com/about/", theme: "common1"} # 友链页地址6   
 
 # 配置项友链
 # enable：# 是否启用配置项友链 true/false（针对还未适配主题或者有定制需求的用户）
